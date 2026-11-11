@@ -1,0 +1,21 @@
+DILLOUD — DOCUMENTOS TRABAJADOS
+
+01 Logo e isotipo: versiones SVG de una tinta en azul, negro y blanco.
+02 Moodboard: versión v2 aprobada, PSD por capas, PNG, paleta .aco y fuente SVG. Textos del PSD rasterizados; JSX incluido para texto vivo. Pantone son referencias propuestas por validar y CMYK orientativo.
+03 Papelería: tarjeta final con íconos y Manrope/Barlow reales, más hoja membretada. SVG trazados y PDF vectorial.
+04 Minimanual: última versión editorial, 8 páginas 16:9, SIN moodboard y con página 6 sobre fondo HUESO. PDF, IDML, Links y JSX de respaldo.
+05 Mockups: playera aprobada, gorra/pase con el primer lanyard elegido y escena integrada de backstage.
+06 Fuentes: cinco pesos seleccionados de los archivos adjuntos por el usuario.
+
+PARA LOS FORMATOS ORIGINALES QUE PIDE EL PROFESOR
+- Photoshop: PSD incluido.
+- Illustrator: abrir los SVG de papelería en Illustrator y guardar como .ai. No se ha generado un .ai nativo.
+- InDesign: abrir IDML, comprobar fuentes y vínculos y guardar como .indd. No se ha generado un .indd nativo ni probado la apertura del IDML en InDesign en este entorno. Mantener carpeta Links junto al IDML.
+
+AÚN NO ELABORADO EN ESTE CHAT
+- FODA (2 fortalezas, 2 oportunidades, 2 debilidades, 2 amenazas).
+- Investigación de registro de marca: disponibilidad de DILLOUD, evidencia, costos y renovaciones, sin pasos.
+- Reel de 10 a 20 segundos con sonido.
+- Presentación integral final en PDF con todos los requisitos: el minimanual NO sustituye esa presentación.
+
+Las revisiones con profesor, exposición y entrega en Blackboard son actividades que debe realizar el alumno; no se acredita aquí que se hayan efectuado.
