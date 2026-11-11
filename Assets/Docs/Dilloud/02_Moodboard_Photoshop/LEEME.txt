@@ -1,0 +1,9 @@
+DILLOUD — Moodboard v2
+
+Rediseño editorial con fotografía de atmósfera, muestras tipográficas REALES, paleta y aplicaciones aprobadas. Las fuentes de los archivos adjuntos fueron verificadas y usadas directamente: Barlow Condensed ExtraBold/ExtraBold Italic y Manrope Regular/SemiBold/Bold. No hay sustitución de fuentes en el PNG ni en el PSD.
+
+PSD: RGB, 2800 x 2140 px, 150 ppp, capas raster independientes por imagen, elemento y texto. Los textos se ven correctamente pero son capas de píxeles. El JSX incluido puede convertirlos a texto vivo en Photoshop si están instaladas las fuentes. Se ejecuta desde Archivo > Secuencias de comandos > Examinar. La ejecución JSX en Photoshop no pudo probarse en este entorno. El SVG conserva los textos vivos y las imágenes incrustadas; requiere las fuentes instaladas.
+
+Los HEX aprobados son la referencia digital. CMYK son conversiones matemáticas orientativas sin perfil ICC. Los Pantone propuestos siguen pendientes de validación física y no son equivalencias exactas; 9180 C pertenece a Pastels & Neons Coated, los demás a Solid Coated.
+
+La fotografía de atmósfera fue generada para esta lámina. Los mockups son los aprobados: playera con frase únicamente atrás; gorra y pase con PRIMER lanyard negro con logos hueso e isotipos azules.

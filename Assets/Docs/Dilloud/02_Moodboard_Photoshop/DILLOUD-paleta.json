@@ -1,0 +1,66 @@
+[
+  {
+    "nombre": "AZUL COBALTO",
+    "hex": "#2845E8",
+    "rgb": [
+      40,
+      69,
+      232
+    ],
+    "cmyk_orientativo": [
+      83,
+      70,
+      0,
+      9
+    ],
+    "pantone_referencia_por_validar": "2728 C"
+  },
+  {
+    "nombre": "BLANCO HUESO",
+    "hex": "#F1EEDF",
+    "rgb": [
+      241,
+      238,
+      223
+    ],
+    "cmyk_orientativo": [
+      0,
+      1,
+      7,
+      5
+    ],
+    "pantone_referencia_por_validar": "9180 C"
+  },
+  {
+    "nombre": "NEGRO LAVADO",
+    "hex": "#202020",
+    "rgb": [
+      32,
+      32,
+      32
+    ],
+    "cmyk_orientativo": [
+      0,
+      0,
+      0,
+      87
+    ],
+    "pantone_referencia_por_validar": "Black C"
+  },
+  {
+    "nombre": "CELESTE GRIS",
+    "hex": "#B9CDD5",
+    "rgb": [
+      185,
+      205,
+      213
+    ],
+    "cmyk_orientativo": [
+      13,
+      4,
+      0,
+      16
+    ],
+    "pantone_referencia_por_validar": "5445 C"
+  }
+]
