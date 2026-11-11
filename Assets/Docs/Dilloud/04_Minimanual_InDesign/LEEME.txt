@@ -1,0 +1,13 @@
+DILLOUD — Minimanual de identidad, 8 páginas, formato 16:9
+
+PDF: revisión con fuentes reales incrustadas. IDML: documento de intercambio con texto nativo y gráficos vinculados. Abrir con InDesign y guardar como .indd para entregar el formato original. Este paquete no contiene un .indd ya generado.
+
+Mantener la carpeta Links junto al IDML. Si InDesign solicita vínculos, indicar dicha carpeta. Instalar las fuentes estáticas adjuntas previamente por el usuario: Barlow Condensed ExtraBold y ExtraBold Italic; Manrope Regular, SemiBold y Bold.
+
+Se verificaron estructura ZIP/XML del IDML, fuentes del PDF, 8 páginas y vistas renderizadas. No se pudo probar la apertura en InDesign en este entorno. Se incluye un JSX que reconstruye la maqueta como elementos nativos en InDesign y guarda un .indd junto al script; requiere los mismos vínculos y fuentes. Puede ejecutarse desde Ventana > Utilidades > Scripts.
+
+Las áreas de protección y tamaños mínimos son reglas iniciales propuestas para DILLOUD. Comprobar la legibilidad en cada soporte y técnica de reproducción.
+
+Los Pantone son referencias por validar, no equivalencias exactas. Los CMYK son orientativos sin perfil ICC. Para producción, confirmar perfil y muestras con el proveedor.
+
+La página de aplicaciones conserva la playera aprobada y la gorra/pase con el PRIMER lanyard elegido. La fotografía de concepto es generada.
